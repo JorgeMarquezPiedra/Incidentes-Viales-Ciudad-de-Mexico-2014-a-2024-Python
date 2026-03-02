@@ -1,0 +1,2 @@
+# Incidentes-Viales-Ciudad-de-Mexico-2014-a-2024-Python
+Análisis exploratorio de datos (EDA) y visualización geográfica de incidentes viales en la Ciudad de México (2014-2024). Utilizando Python y datos del Centro de Comando, Control, Cómputo, Comunicaciones y Contacto Ciudadano de la CDMX (C5), se analizaron los incidentes viales para identificar patrones de mayor riesgo y su distribución geográfica.
