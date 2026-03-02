@@ -34,6 +34,7 @@
 <img width="1551" height="994" alt="image" src="https://github.com/user-attachments/assets/e42e747e-dee8-4b98-9c27-aed4fe41a132" />
 
 **Mapa de calor de incidentes viales**
+
 <img width="475" height="285" alt="Heatmap_1" src="https://github.com/user-attachments/assets/1d168aca-de9a-4f3d-8dbb-db99f57b3fce" />
 <img width="677" height="186" alt="Heatmap_2" src="https://github.com/user-attachments/assets/8789cb62-59d0-44bc-b817-596a13f12a63" />
 <img width="563" height="308" alt="Heatmap_3" src="https://github.com/user-attachments/assets/8ab93253-07d1-4d8a-84df-ea9774caddc8" />
